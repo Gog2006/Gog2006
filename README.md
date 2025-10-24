@@ -3,7 +3,7 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=12&letterSpacing=6px&pause=1000&color=0FF700&width=435&lines=Become+better" alt="Typing SVG" /></a>
 
-<a align="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=12&letterSpacing=6px&pause=1000&color=0FF700&width=435&lines=Become+faster" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=12&letterSpacing=6px&pause=1000&color=0FF700&width=435&lines=Become+faster" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=12&letterSpacing=6px&pause=1000&color=0FF700&width=435&lines=Become+stronger" alt="Typing SVG" /></a>
 
