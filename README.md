@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gog2006&theme=tokyonight&card_width=456" alt="Stats" hight="50%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gog2006&theme=tokyonight&card_width=456" alt="Stats" hight="50%" wigth="fill-content"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gog2006&theme=tokyonight-duo&short_numbers=true&hide_border=true" alt="GitHub Streak"  hight="50%"/>
 </p>
 
