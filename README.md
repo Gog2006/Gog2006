@@ -61,14 +61,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gog2006&theme=tokyonight" alt="Stats" width="32%" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gog2006&theme=tokyonight&utcOffset=1" alt="Commits by Time" width="32%" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gog2006&theme=tokyonight-duo&short_numbers=true" alt="GitHub Streak" width="32%" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gog2006&theme=tokyonight" alt="Repos per Language" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gog2006&theme=tokyonight" alt="Most Commit Language" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gog2006&theme=tokyonight" alt="Stats" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gog2006&theme=tokyonight-duo&short_numbers=true&card_width=340&card_height=200" alt="GitHub Streak" />
 </p>
 
 ---
