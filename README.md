@@ -63,8 +63,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gog2006&theme=tokyonight" alt="Stats" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gog2006&theme=tokyonight&utcOffset=1" alt="Commits by Time" width="32%"/>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gog2006&theme=tokyonight-duo&short_numbers=true" alt="GitHub Streak" width="32%"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gog2006&theme=tokyonight-duo&short_numbers=true" alt="GitHub Streak" width="32%"/>
 
 </p>
 
