@@ -1,7 +1,12 @@
-<h1 align="center">Hi there, I'm Gog2006! 👋</h1>
+<h1 align="center">Hello,my name is Oleksandr</h1>
 
 <p align="center">
-  <a href="https://github.com/Gog2006"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=12&letterSpacing=6px&pause=1000&color=0FF700&center=true&vCenter=true&width=435&lines=Become+better+" alt="Typing SVG" /></a>
+</br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=12&letterSpacing=6px&pause=1000&color=0FF700&center=true&vCenter=true&width=435&lines=Become+faster" alt="Typing SVG" /></a>
+ </br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=12&letterSpacing=big&pause=1000&color=0FF700&center=true&vCenter=true&width=435&lines=Become+stronger" alt="Typing SVG" /></a>
+
 </p>
 
 <p align="center">
@@ -13,7 +18,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - Currently i study in Université Côte d'Azur(bachelor's degrees)
   <a align="center" href="https://univ-cotedazur.eu/attending-universite-cote-dazur">
@@ -23,7 +28,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -46,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gog2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -59,7 +64,7 @@
 
 ---
 
-### 📈 Activity Graph
+### Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gog2006&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -67,7 +72,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="center">
 <a href="https://github.com/Gog2006">
