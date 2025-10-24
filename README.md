@@ -55,23 +55,20 @@
 
 ### GitHub Stats
 
+<!-- Full Profile Summary showing ALL contributions including private -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gog2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gog2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gog2006&theme=tokyonight" alt="Profile Summary"/>
 </p>
 
-<!-- Language Stats (uncomment when you have more public repositories) -->
-<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gog2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=Gog2006" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gog2006&theme=tokyonight" alt="Stats" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gog2006&theme=tokyonight&utcOffset=1" alt="Commits by Time" width="32%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gog2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="32%"/>
 </p>
--->
 
-<!-- Alternative Language Cards -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gog2006&theme=tokyonight" alt="Repos per Language" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gog2006&theme=tokyonight" alt="Most Commit Language" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gog2006&theme=tokyonight" alt="Productive Time" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gog2006&theme=tokyonight" alt="Repos per Language" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gog2006&theme=tokyonight" alt="Most Commit Language" width="49%"/>
 </p>
 
 ---
