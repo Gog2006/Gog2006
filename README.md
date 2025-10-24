@@ -17,7 +17,7 @@
 
 - Currently i study in Université Côte d'Azur(bachelor's degrees)
   <a align="center" href="https://univ-cotedazur.eu/attending-universite-cote-dazur">
-  <img src="https://univ-cotedazur.eu/uas/ksup-en/LOGO/UniCA-60ans-Logo_EN-2025_1niveau-Baseline-Couleurs.png" alt="Université Côte d'Azur" width="72" height="29"/>
+  <img src="https://univ-cotedazur.eu/uas/ksup-en/LOGO/UniCA-60ans-Logo_EN-2025_1niveau-Baseline-Couleurs.png" alt="Université Côte d'Azur" width="72" height="29" style="border: 1px solid #ccc; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 4px;"/>
   </a>
 - I'm a passionate Full-Stack Developer with a strong foundation in both front-end and back-end development. I leverage modern web technologies and frameworks to craft user-friendly, responsive, and scalable web applications. Furthermore, I thrive in collaborative environments and possess a strong problem-solving mindset and communication skills, ensuring effective solutions for complex technical challenges.
 
