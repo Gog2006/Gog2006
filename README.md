@@ -2,17 +2,8 @@
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=12&letterSpacing=6px&pause=1000&color=0FF700&width=435&lines=Become+better" alt="Typing SVG" /></a>
- </p>
- </br>
-<p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=12&letterSpacing=6px&pause=1000&color=0FF700&width=435&lines=Become+faster" alt="Typing SVG" /></a>
-</p> 
-</br>
- <p align="right">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=12&letterSpacing=6px&pause=1000&color=0FF700&width=435&lines=Become+stronger" alt="Typing SVG" /></a>
-</p>
-</br>
-<p align="center">
   <a href="https://github.com/Gog2006?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Gog2006?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Gog2006?tab=repositories&sort=stargazers">
